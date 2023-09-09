@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhLtwKtlTi8Dwx1ZFneUqQ5ceyYZ9QHpUhUlfh/6zTIzSBsitjESci4OZIObjHwMLEbd9En4HZN5TrCXWc4PvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rower\\source\\repos\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rower\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
